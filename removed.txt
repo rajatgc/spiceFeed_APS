@@ -1,0 +1,180 @@
+
+            <!-- Oct 05, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <img src="assets/images/oct05.jpg" style="margin-bottom: 19px;" />
+                    <div class="card-block">
+                        <p class="card-date">October 05, 2020</p>
+                        <h4 class="card-title">Namaste London</h4>
+                        <p class="card-text">The wait is finally over! Proud to be the first low-cost carrier in India
+                            to start non-stop flights to London Heathrow from Delhi and Mumbai. Eagerly waiting to see
+                            you all on-board starting December 4 for an all new Red Hot Spicy journey.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sept 23, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-block">
+                        <!-- //img carousel -->
+                        <div class="carousel" data-flickity='{ "imagesLoaded": true }' id="carousel4">
+                            <div class="carousel-cell"><img src="assets/images/sept23/1.jpg" /> </div>
+                            <div class="carousel-cell"><img src="assets/images/sept23/2.jpg" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept23/3.jpg" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept23/4.jpg" /></div>
+                        </div>
+                        <p class="card-date">September 23, 2020</p>
+                        <h4 class="card-title">SpiceJet putting Darbhanga on India’s aviation map</h4>
+                        <p class="card-text">Hon’ble MP from Darbhanga met with Ajay Singh, CMD SpiceJet, earlier today,
+                            against the backdrop of SpiceJet putting Darbhanga on India’s aviation map with 6 new flight
+                            introductions. The new flights will connect Darbhanga to the key metros of Delhi, Mumbai and
+                            Bengaluru and provide a fillip to the economy of the entire region.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sept 16, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-block">
+                        <!-- //img carousel -->
+                        <div class="carousel" data-flickity='{ "imagesLoaded": true }' id="carousel3">
+                            <div class="carousel-cell"><img src="assets/images/sept16/1.jpg" /> </div>
+                            <div class="carousel-cell"><img src="assets/images/sept16/2.jpg" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept16/3.jpg" /></div>
+                            <!-- <div class="carousel-cell"><img src="assets/images/sept16/4.jpg" /></div> -->
+                        </div>
+                        <p class="card-date">September 16<, 2020/p>
+                                <h4 class="card-title">Introducing 14 dedicated cargo flights to and from NE India.</h4>
+                                <p class="card-text">SpiceJet is thrilled to announce the introduction of 14 dedicated
+                                    cargo
+                                    flights to and from North Eastern India. With these new introductions, we have
+                                    become the
+                                    first Indian carrier to introduce dedicated cargo flights for the region.</br>
+                                    These new introductions will provide cargo connectivity to Assam, Manipur, Mizoram,
+                                    Nagaland
+                                    and Tripura, using our dedicated cargo freighters. We are positive that our
+                                    dedicated
+                                    freighter operations to improve logistics & connectivity will boost the growth of
+                                    trade and
+                                    commerce in North-Eastern India.
+                                </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sept 10, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <video class="img-fluid" playsinline poster="assets/videos/sept10.jpg" controls
+                        disablePictureInPicture controlsList="nodownload">
+                        <source src="assets/videos/sept10.mp4" type="video/mp4">
+                    </video>
+                    <div class="card-block">
+                        <p class="card-date">September 10, 2020</p>
+                        <h4 class="card-title">A message from Shri Shambhu S Kumaran, Ambassador of India to the
+                            Republic of Philippines</h4>
+                        <p class="card-text">Today’s Vande Bharat Mission flight from Cebu, Philippines to Chennai
+                            wouldn’t have been possible without the constant support of @indiainphilippines. Here’s a
+                            message from Shri Shambhu S Kumaran, Ambassador of India to the Republic of Philippines
+                            about this successful mission, which included transporting a Filipino child who required an
+                            urgent liver transplant.</br>
+                            Expressing his appreciation for SpiceJet’s noble initiative of transporting these patients
+                            free of cost, Shri Kumaran said, “I also wish to record my sincere appreciation to SpiceJet
+                            for carrying a liver transplant child, donor and family free of charge at the request of the
+                            Embassy on humanitarian grounds. This underlines the highest social values that guide Indian
+                            companies such as SpiceJet. For the Embassy, the relationship between India and Philippines
+                            is driven by our people, and the welfare of the most vulnerable and needy is above all
+                            else.”
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sept 08, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <img src="assets/images/sept08.jpg" style="margin-bottom: 19px;" />
+                    <div class="card-block">
+                        <p class="card-date">September 08, 2020</p>
+                        <h4 class="card-title">SpiceJet repatriating people in these challenging times</h4>
+                        <p class="card-text">Over the past few weeks, we have repatriated several thousand Indian
+                            nationals from UAE to India and vice versa for UAE residents. A big thank you to the
+                            @rakairport for being such capable partners in this huge humanitarian mission.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Sept 07, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-block">
+                        <!-- //img carousel -->
+                        <div class="carousel" data-flickity='{ "imagesLoaded": true }' id="carousel2">
+                            <div class="carousel-cell"><img src="assets/images/sept07/1.png" /> </div>
+                            <div class="carousel-cell"><img src="assets/images/sept07/2.png" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept07/3.png" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept07/4.png" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept07/5.png" /></div>
+                            <div class="carousel-cell"><img src="assets/images/sept07/6.png" /></div>
+                        </div>
+                        <p class="card-date">September 07, 2020</p>
+                        <h4 class="card-title">SpiceLearn Quarterly Winners</h4>
+                    </div>
+                </div>
+            </div>
+            <!-- Aug 21, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <div class="card-block">
+                        <!-- //img carousel -->
+                        <div class="carousel" data-flickity='{ "imagesLoaded": true }' id="carousel1">
+                            <div class="carousel-cell"><img src="assets/images/aug21/1.jpg" /> </div>
+                            <div class="carousel-cell"><img src="assets/images/aug21/2.jpg" /></div>
+                        </div>
+                        <p class="card-date">August 21, 2020</p>
+                        <h4 class="card-title">Good News!</h4>
+                        <p class="card-text">Received this good news today! The children we flew from Philippines to
+                            India this 14th, to receive emergency liver transplants here, are doing well and will
+                            undergo their surgeries very soon. Here’s a message from Shri Anupam Sibal, the Group
+                            Medical Director of Apollo Hospitals.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- July 30, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <video class="img-fluid" playsinline poster="assets/videos/july30.png" controls
+                        disablePictureInPicture controlsList="nodownload">
+                        <source src="assets/videos/july30.mp4" type="video/mp4">
+                    </video>
+                    <div class="card-block">
+                        <p class="card-date">July 30, 2020</p>
+                        <h4 class="card-title">Help Us Build A Safer Flying Experience</h4>
+                        <p class="card-text">Ensuring the safety of every flier in these times is a collective
+                            responsibility. While SpiceJet is taking all possible measures to create a secure &
+                            comfortable environment for its passengers, here are some steps you can take, to help us
+                            achieve the goal.
+                        </p>
+                    </div>
+                </div>
+            </div> -->
+            <!-- July 09, 2020 -->
+            <div class="col-lg-4">
+                <div class="card">
+                    <video class="img-fluid" playsinline poster="assets/videos/july09.png" controls
+                        disablePictureInPicture controlsList="nodownload">
+                        <source src="assets/videos/july09.mp4" type="video/mp4">
+                    </video>
+                    <div class="card-block">
+                        <p class="card-date">July 09, 2020</p>
+                        <h4 class="card-title">We’re breaking new grounds to ensure your well-being!</h4>
+                        <p class="card-text">We’re delighted to introduce an insurance against COVID-19
+                            hospitalisations, for all our passengers- the 1st Indian airline to do so! You can avail
+                            upto
+                            Rs 3 lakhs of coverage, at a premium starting Rs 443/-.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
